@@ -24,8 +24,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">entreterimento </summary>
-    <description lang="en">entreterimento online</description>
+    <summary lang="en">entreterimento para todos </summary>
+    <description lang="en">entreterimento online by Dias Wesley</description>
     <platform>all</platform>
   </extension>
 </addon>
